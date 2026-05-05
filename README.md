@@ -1,4 +1,4 @@
-# sreeram2001
+# STRESS DETECTION USING FACIAL IMAGE RECOGNITION
 
 This is a ML model for Stress Detection Using Facial Image Recognition
 The Project Has Two Models :
